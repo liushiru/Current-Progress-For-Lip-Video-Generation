@@ -24,4 +24,6 @@ To identify the phoneme pronounced by the L2 learners as well as the timestamp o
 
 ## Indicative Lip Video Generation
 Combining the results from the above two points, [indicative lip videos](https://drive.google.com/file/d/1_kszRFTXMxO0hrT5yz2pNnygkRvqSm9Z/view?usp=sharing) can be generated.
-The scripts used to do the combination are `gen_vid.sh` and `mark_video.py`.
+The scripts used to do the combination are `gen_vid.sh` and `mark_video.py`. 
+
+More videos coule be found [here](https://drive.google.com/drive/folders/1GbLuG65DxAUDy6n1iCgweNvCX6Fj5xgB?usp=sharing)
